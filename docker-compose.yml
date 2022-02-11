@@ -1,0 +1,6 @@
+version: "2"
+services:
+  balancer_app:
+    build: .Dockerfile
+    ports:
+      - "8000:8000"
