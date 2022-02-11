@@ -1,0 +1,23 @@
+# dev specificIDE specific files
+.idea/*
+.vscode/*
+.ropeproject/*
+.codeintel/*
+.project
+.pydevproject
+.settings
+.coverage
+.venv
+
+*.log
+
+# python specific
+*.pyc
+venv/
+__pycache__/
+
+# setuptools specific
+.eggs
+dist
+*.egg-info
+.to
