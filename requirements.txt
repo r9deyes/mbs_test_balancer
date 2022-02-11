@@ -2,7 +2,6 @@ aiofiles==0.8.0
 aiomysql==0.0.22
 httptools==0.3.0
 multidict==5.2.0
-pkg_resources==0.0.0
 PyMySQL==0.9.3
 sanic==21.12.1
 sanic-routing==0.7.2
